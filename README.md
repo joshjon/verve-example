@@ -1,5 +1,7 @@
 # Toy Robot Simulation Coding Challenge
 
+**Date: 2026-02-10**
+
 ## Overview
 
 This challenge involves creating a simulation of a toy robot moving on a square tabletop of dimensions 5x5 units. Your task is to develop an application that can read and execute specific commands, maintaining the toy robot within the confines of the tabletop.
