@@ -1,0 +1,11 @@
+# Advanced scenario: Navigate around the table
+PLACE 1,2,NORTH
+MOVE
+RIGHT
+MOVE
+MOVE
+RIGHT
+MOVE
+LEFT
+MOVE
+REPORT
